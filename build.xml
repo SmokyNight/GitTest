@@ -5,7 +5,7 @@
   <property file="build.properties"/>
   <!-- Uncomment the following property if no tests compilation is needed -->
   <!-- 
-  <property name="skip.tests" value="true"/>
+  <property name="skip.tests" value="true" - don't do this/>
    -->
   
   <!-- Compiler options -->
@@ -56,7 +56,7 @@
     <exclude name="**/?*.clj"/>
   </patternset>
   
-  <!-- JDK definitions -->
+  <!-- JDK definitions Some comments -->
   
   <property name="jdk.bin.1.7" value="${jdk.home.1.7}/bin"/>
   <path id="jdk.classpath.1.7">
