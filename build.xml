@@ -8,7 +8,7 @@
   <property name="skip.tests" value="true" - don't do this/>
    -->
   
-  <!-- Compiler options -->
+  <!-- Compiler options  Moar changes-->
   
   <property name="compiler.generate.no.warnings" value="off"/>
   <property name="compiler.args" value=""/>
