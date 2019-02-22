@@ -10,7 +10,6 @@
   
   <!-- Compiler options -->
   
-  <property name="compiler.debug" value="on"/>
   <property name="compiler.generate.no.warnings" value="off"/>
   <property name="compiler.args" value=""/>
   <property name="compiler.max.memory" value="700m"/>
